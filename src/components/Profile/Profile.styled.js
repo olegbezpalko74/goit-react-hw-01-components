@@ -18,7 +18,7 @@ export const InfoContainer = styled.div`
 
 export const Image = styled.img`
   display: block;
-  width: 250px;
+  width: 200px;
   height: auto;
   margin: 0 auto;
 `;
